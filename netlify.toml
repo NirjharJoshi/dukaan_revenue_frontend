@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/dukaan/*"
+  to = "https://dukaan-revenue.netlify.app/:splat"
+  status = 200
+  force = true
